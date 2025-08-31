@@ -1,10 +1,10 @@
 {
-  "version": "2.0.29",
+  "version": "2.0.30",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://gravurzeile.github.io/barcode-scanner-v2-releases/2.0.29-barcode_scanner-x86_64-pc-windows-msvc.zip",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYkF4TmpHVTNxTWFEK2htMnFnT1l4Rlo5RHlqTGkySDhLV0VxcklHZ1hodXAzODV4QUJJc0tPcDQrd3JNbE05Mit4UEN2aVpHSFJpSGR0aEZac2tOTFhRNVVCZVZxZkF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU2NjcxODMyCWZpbGU6Mi4wLjI5LWJhcmNvZGVfc2Nhbm5lci14ODZfNjQtcGMtd2luZG93cy1tc3ZjLnppcAprNWJlaGhobDgwa0NWZGFhNzBjcXZJenNVOTBIWGptUFZ3MWpoSkMrL2E2Kzl2RTZMWmNGTWZrYlVmYzF5SWczNVFVZHNtMjdMK2t4WDRrL05vNitBdz09Cg=="
+      "url": "https://gravurzeile.github.io/barcode-scanner-v2-releases/2.0.30-barcode_scanner-x86_64-pc-windows-msvc.zip",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYkF4TmpHVTNxTVdFeldGbHl3cmxwcWh4TUpkYTZBc1ZhMDIwQnBJWGgxWFRNeFQ4Y2FPVHhEWCtna1h2WmNCRkFUR0xGMG5TK3N3c0p5VHBxZk9UMnQrOUx4VFNvK1FNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU2NjcyNzAyCWZpbGU6Mi4wLjMwLWJhcmNvZGVfc2Nhbm5lci14ODZfNjQtcGMtd2luZG93cy1tc3ZjLnppcAovVERyeUJTRmhodGhHY2QrQ2poK1dwclA3QmFRaWZRNERKQnZZbEZ2SWJoUk0xOEVQcy9tZDBVd0VQN2dsRUk1VHAxQWV1VW1SbVJSYXZJa2pNMzlCdz09Cg=="
     }
   },
-  "notes": "Release 2.0.29"
+  "notes": "Release 2.0.30"
 }
