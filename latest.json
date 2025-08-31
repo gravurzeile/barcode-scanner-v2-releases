@@ -1,9 +1,10 @@
 {
-  "version": "2.0.26",
+  "version": "2.0.27",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://gravurzeile.github.io/barcode-scanner-v2-releases/2.0.26-barcode_scanner-x86_64-pc-windows-msvc.zip"
+      "url": "https://gravurzeile.github.io/barcode-scanner-v2-releases/2.0.27-barcode_scanner-x86_64-pc-windows-msvc.zip",
+      "signature": ""
     }
   },
-  "notes": "Release 2.0.26"
+  "notes": "Release 2.0.27"
 }
