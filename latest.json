@@ -1,10 +1,10 @@
 {
-  "version": "2.0.17",
+  "version": "2.0.20",
   "platforms": {
     "windows-x86_64": {
       "signature": "",
-      "url": "https://gravurzeile.github.io/barcode-scanner-v2-releases/2.0.17-barcode_scanner-x86_64-pc-windows-msvc.zip"
+      "url": "https://gravurzeile.github.io/barcode-scanner-v2-releases/2.0.20-barcode_scanner-x86_64-pc-windows-msvc.zip"
     }
   },
-  "notes": "Release 2.0.17"
+  "notes": "Release 2.0.20"
 }
