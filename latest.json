@@ -1,10 +1,10 @@
 {
-  "version": "2.0.34",
+  "version": "2.0.42",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://gravurzeile.github.io/barcode-scanner-v2-releases/barcode-scanner-v2_2.0.34_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYkF4TmpHVTNxTVhzTmZXU3BtbGRvemZ2emZsMFVNcXBiRlpHY0tHOHVQcFBYa1R1N1JkM21HSTYxc2w4aEdtME9HOGVFUWF1cFcvVy9QbUpVM0pjZnhYbmh6cm5YZHdZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzU2Njc3NTY1CWZpbGU6YmFyY29kZS1zY2FubmVyLXYyXzIuMC4zNF94NjQtc2V0dXAuZXhlCmJBSmR5TURMM0NhVStqcjcyWTdyMzIyQkRSVklGZ0hjSTJYSzlMUG1XcE13UEZzWlAvUmFWc0kyOXFXYW5Fb0d1Y0ppUkZmYkkzUVFqU0RSdUJWbEJBPT0K"
+      "url": "https://gravurzeile.github.io/barcode-scanner-v2-releases/barcode-scanner-v2_2.0.42_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUVHJyWTNDZWtiZTV5eWIxajBJUHdOVHVreHY4QlBwZEs1cHIyYlNDQXI3TVhOV2JhOXlYWklGZGtYMUk3UGRoSExKcDBPOTFKVWRpSGVuUWZxYkM5d0lrajdIRkVFL1FJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY3MTQzODUyCWZpbGU6YmFyY29kZS1zY2FubmVyLXYyXzIuMC40Ml94NjQtc2V0dXAuZXhlClo3citLNERYQ0k2ZFIzOFBsek1HRkF0RmVqVHdQenR6V0Nlc3o3SHR1dXZ4am1OTUEvOWRnN3R5Y0VUMGFDWU1VRHpaanJRY0ZTSHgrVDlZRU9ucEFRPT0K"
     }
   },
-  "notes": "Release 2.0.34"
+  "notes": "Release 2.0.42"
 }
